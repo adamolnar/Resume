@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../images/IMG-20230901-WA0007.jpg");
+    background: url("../images/rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -152,6 +152,7 @@ header {
 #nav li {
     padding: 0;
 }
+
 
 .menuitem {
     height: 120px;
